@@ -1,0 +1,13 @@
+.jumbotron {
+    background-image: url("/imagini/11_026.jpg");
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    margin-top: 50px;
+    
+}
+
+.jumbotron p{
+    color: white;
+}

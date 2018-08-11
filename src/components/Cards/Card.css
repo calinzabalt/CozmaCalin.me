@@ -1,0 +1,13 @@
+.container .card {
+    margin-bottom: 70px;
+    padding: 0;
+    font-size: 13px;
+    
+}
+
+@media screen and (max-width: 760px) {
+    .container .card{
+      font-size: 10px;
+      
+    }
+}
