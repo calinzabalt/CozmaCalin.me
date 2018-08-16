@@ -7,7 +7,7 @@ class Contact extends Component {
         <div className="background">
         <div className="box1">
         <h2>I’m currently available for freelance work.</h2>
-        <p>If you have a project that you want to get started, or if you want my help to accomplish something you can contact me on this platforms:</p>
+        <p>If you have a project that you want to get started, or if you want my help to accomplish something you can contact me on this platform:</p>
         </div>
 
         <form method="post">
