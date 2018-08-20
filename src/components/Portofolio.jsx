@@ -19,7 +19,9 @@ class Portofolio extends Component {
         </div>
         <p className="lead">
         
-        <a href="https://github.com/calinzabalt/CountDown-app" target="blank"> <Button color="primary">Try-the-app</Button></a>
+        <a href="https://calinzabalt.github.io/count-down/" target="blank"> <Button color="primary">Try the app</Button></a>
+        <a href="https://github.com/calinzabalt/CountDown-app" target="blank"> <Button color="primary">Source Code</Button></a>
+                
         </p>
         
       </Jumbotron>
@@ -33,7 +35,8 @@ class Portofolio extends Component {
         <hr className="my-2" />
         </div>
         <p className="lead">
-        <a href="https://calinzabalt.github.io/book-explorer/" target="blank"> <Button color="primary">Try-this-app</Button></a>
+        <a href="https://calinzabalt.github.io/book-explorer/" target="blank"> <Button color="primary">Try the app</Button></a>
+        <a href="https://github.com/calinzabalt/book-explorer/tree/master" target="blank"> <Button color="primary">Source Code</Button></a>
         </p>
       </Jumbotron>
     </div>
@@ -46,7 +49,7 @@ class Portofolio extends Component {
         <hr className="my-2" />
         </div>
         <p className="lead">
-        <a href="https://github.com/calinzabalt/Theme-clothes-website" target="blank"> <Button color="primary">GitHub-Link</Button></a>
+        <a href="https://github.com/calinzabalt/Theme-clothes-website" target="blank"> <Button color="primary">Source Code</Button></a>
         </p>
       </Jumbotron>
     </div>
