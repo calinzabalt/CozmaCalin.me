@@ -33,7 +33,7 @@ class Portofolio extends Component {
         <hr className="my-2" />
         </div>
         <p className="lead">
-        <a href="https://github.com/calinzabalt/book-explore" target="blank"> <Button color="primary">GitHub-Link</Button></a>
+        <a href="https://github.com/calinzabalt/book-explore/tree/master" target="blank"> <Button color="primary">GitHub-Link</Button></a>
         </p>
       </Jumbotron>
     </div>
