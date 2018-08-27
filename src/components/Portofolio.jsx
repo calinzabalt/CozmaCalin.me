@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './Portofolio.css';
 import { Jumbotron, Button } from 'reactstrap';
 import { Grid, Row, Col, Image, } from 'react-bootstrap';
+import { Progress } from 'reactstrap';
 
 
 class Portofolio extends Component {
@@ -51,9 +52,22 @@ class Portofolio extends Component {
         </p>
     </Jumbotron>
       </div>
+
+      <div className="change3">
+    <Jumbotron>
+      <div className="box">
+        <h2 className="display-3">W.I.P React GraphQl App</h2>
+        <Progress color="success" value="75" />
+        <hr className="my-2" />
+        </div>
+        <p className="lead">
+        { /* <a href="https://github.com/calinzabalt/Theme-clothes-website" target="blank"> <Button color="primary">Source Code</Button></a> */}
+        </p>
+    </Jumbotron>
+      </div>
+
        <h1>Besides web development I have more skills . One of these are 3D designing and another one is animation maker</h1>     
-    
-            
+                
        <Grid>
   <Row>
       

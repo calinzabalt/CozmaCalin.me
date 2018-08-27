@@ -16,6 +16,11 @@
     border-top: 2px rgb(199, 199, 45) solid;
 }
 
+.change3 .jumbotron {
+    border-bottom: 2px rgb(199, 199, 45) solid;
+    border-top: 2px rgb(199, 199, 45) solid;
+}
+
 .change .jumbotron{
     text-align: center;
     background-image: url('/imagini/Screenshot from 2018-08-06 22-34-46.png');
@@ -74,6 +79,27 @@
 }
 
 .change2 .jumbotron p{
+    color: black;
+    font-weight: 600;
+    margin: 10px;
+}
+
+.change3 .jumbotron{
+    text-align: center;
+    background-image: url('/imagini/cog-wheels-2125183_1920.jpg');
+    height: 500px;
+    background-position: 0% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.change3 .jumbotron h2{
+    color: black;
+    font-weight: 600;
+    margin: 10px;
+}
+
+.change3 .jumbotron p{
     color: black;
     font-weight: 600;
     margin: 10px;
