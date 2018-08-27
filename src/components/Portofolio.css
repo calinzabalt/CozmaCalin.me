@@ -23,7 +23,6 @@
     background-size: cover;
     background-repeat: no-repeat;
     height: 500px;
-    
 }
 
 .change .jumbotron h2{
@@ -45,7 +44,6 @@
     background-size: cover;
     background-repeat: no-repeat;
     height: 500px;
-    
 }
 
 .change1 .jumbotron h2{
@@ -67,7 +65,6 @@
     background-position: 0% 100%;
     background-size: cover;
     background-repeat: no-repeat;
-    
 }
 
 .change2 .jumbotron h2{
@@ -80,7 +77,6 @@
     color: black;
     font-weight: 600;
     margin: 10px;
-    
 }
 
 .jumbotrons h2{
@@ -88,10 +84,10 @@
     text-align: left;
     font-size: 50px;
 }
+
 .jumbotrons p{
     color: black;
     text-align: left;
-    
 }
  
 .jumbotrons h1{
@@ -99,8 +95,6 @@
     text-align: center;
     text-shadow: black 0.3em 0.3em 0.3em;
 }
-
-
 
 .row {
     padding:  5px;
@@ -110,7 +104,6 @@
 
 .padding {
     padding-bottom: 20px;
-    
 }
 
 .align {
@@ -118,12 +111,11 @@
     height: 80%;
     margin-right: auto;
     margin-left: auto;
-  
-  }
+}
   
   .video-padding {
      padding: 20px;
-  }
+}
 
   .box {
     border-radius: 5px;

@@ -18,17 +18,15 @@ class Portofolio extends Component {
         <hr className="my-2" />
         </div>
         <p className="lead">
-        
         <a href="https://calinzabalt.github.io/count-down/" target="blank"> <Button color="primary">Try the app</Button></a>
         <a href="https://github.com/calinzabalt/CountDown-app" target="blank"> <Button color="primary">Source Code</Button></a>
-                
         </p>
-        
-      </Jumbotron>
-    </div>
+     </Jumbotron>
+        </div>
+
 
      <div className="change1">
-     <Jumbotron>
+    <Jumbotron>
      <div className="box">
         <h2 className="display-3">Book-Explorer-App</h2>
         <p className="lead">This is an application where you can search for your favorite books.</p>
@@ -38,12 +36,12 @@ class Portofolio extends Component {
         <a href="https://calinzabalt.github.io/book-explorer/" target="blank"> <Button color="primary">Try the app</Button></a>
         <a href="https://github.com/calinzabalt/book-explorer/tree/master" target="blank"> <Button color="primary">Source Code</Button></a>
         </p>
-      </Jumbotron>
+    </Jumbotron>
     </div>
 
-     <div className="change2">
-     <Jumbotron>
-     <div className="box">
+      <div className="change2">
+    <Jumbotron>
+      <div className="box">
         <h2 className="display-3">Website-Theme</h2>
         <p className="lead">This is a theme for a web shop with carousel, cards, responsive galery... </p>
         <hr className="my-2" />
@@ -51,10 +49,11 @@ class Portofolio extends Component {
         <p className="lead">
         <a href="https://github.com/calinzabalt/Theme-clothes-website" target="blank"> <Button color="primary">Source Code</Button></a>
         </p>
-      </Jumbotron>
-    </div>
+    </Jumbotron>
+      </div>
        <h1>Besides web development I have more skills . One of these are 3D designing and another one is animation maker</h1>     
     
+            
        <Grid>
   <Row>
       

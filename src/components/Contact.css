@@ -11,7 +11,6 @@
     width: 80%;
     margin-left: auto;
     margin-right: auto;
-    
 }
 
 .box1 h2{
@@ -19,21 +18,18 @@
     font-family: cursive;
     font-size: 40px;
     padding: 0;
-      
 }
 
 .box1 p {
     font-weight: 100;
 }
 
-
 form{
     width:100%;
     max-width: 900px;
     margin:20px auto;
     margin-bottom: 40px;
-    
-  }
+}
 
   form p{
       color: white;
@@ -44,13 +40,16 @@ form{
     max-width: 100%;
     resize: none;
   }
+
   textarea{
     height: 200px;
-  }
+}
+
   label{
     text-align: left;
     font-weight: 400;
-  }
+}
+
   form button{
     background: #4A96AD;
     font-weight: bold;
@@ -59,11 +58,13 @@ form{
     font-size: 18px;
     border:none;
     color:#fff;
-  }
+}
+
   form p{
     text-align: left;
 
-  }
+}
+
   .container.contact{
     min-height: 100vh;
-  }
+}
