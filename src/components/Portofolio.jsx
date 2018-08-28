@@ -2,8 +2,6 @@ import React, { Component } from 'react';
 import './Portofolio.css';
 import { Jumbotron, Button } from 'reactstrap';
 import { Grid, Row, Col, Image, } from 'react-bootstrap';
-import { Progress } from 'reactstrap';
-
 
 class Portofolio extends Component {
     render() {
@@ -56,12 +54,14 @@ class Portofolio extends Component {
       <div className="change3">
     <Jumbotron>
       <div className="box">
-        <h2 className="display-3">W.I.P React GraphQl App</h2>
-        <Progress color="success" value="75" />
+        <h2 className="display-3">React GraphQl App</h2>
+        <p>This is an app that is created with React Apollo. GraphQl as a back-end and Apollo launchpad as a server.</p>
+        <p className="lead"></p>
         <hr className="my-2" />
         </div>
         <p className="lead">
-        { /* <a href="https://github.com/calinzabalt/Theme-clothes-website" target="blank"> <Button color="primary">Source Code</Button></a> */}
+        <a href="https://calinzabalt.github.io/react-graphql/" target="blank"> <Button color="primary">Try the app</Button></a>
+        <a href="https://github.com/calinzabalt/react-graphql" target="blank"> <Button color="primary">Source Code</Button></a>
         </p>
     </Jumbotron>
       </div>

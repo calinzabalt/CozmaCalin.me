@@ -86,9 +86,9 @@
 
 .change3 .jumbotron{
     text-align: center;
-    background-image: url('/imagini/cog-wheels-2125183_1920.jpg');
+    background-image: url('/imagini/Screenshot from 2018-08-28 10-43-23.png');
     height: 500px;
-    background-position: 0% 100%;
+    background-position: 0% 0%;
     background-size: cover;
     background-repeat: no-repeat;
 }
