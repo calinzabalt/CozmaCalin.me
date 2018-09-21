@@ -37,7 +37,7 @@ import { Container, Row, Col } from 'reactstrap';
           <CardImg top width="100%" style={{height:270}} src="/imagini/react-seeklogo.com.svg" alt="Card image cap" />
           <CardBody>
             <CardTitle>How I do the work</CardTitle>
-            <CardText>I use programming languages like: HTML 5, CSS 3, Javascript (React.js, Vue.js).</CardText>
+            <CardText>For a front-end website I use programming languages like: Javascript (React.js, Vue.js).</CardText>
             <a href="/Portofolio"><Button color="danger">Portofolio</Button></a>
           </CardBody>
         </Card>
