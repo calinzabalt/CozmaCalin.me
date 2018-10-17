@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './Contact.css';
+import { Container, Row, Col } from 'reactstrap';
 
 class Contact extends Component {
     render() {
@@ -10,6 +11,11 @@ class Contact extends Component {
         <p>If you have a project that you want to get started, or if you want my help to accomplish something you can contact me on this platform:</p>
         </div>
 
+
+        <Container>
+          <Row>
+            <Col sm="12">
+        
         <form method="post">
           <input type="hidden" name="form-name" value="contact" />
           <p>
@@ -25,6 +31,10 @@ class Contact extends Component {
             <button type="submit">Send</button>
           </p>
         </form>
+        
+        </Col>
+        </Row>
+        </Container>
         </div>
       );
     }

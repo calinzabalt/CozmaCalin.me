@@ -31,6 +31,27 @@ form{
     margin-bottom: 40px;
 }
 
+@media screen and (max-width:996px) {
+    form{
+        width:100%;
+        max-width: 500px;
+        margin:20px auto;
+        margin-bottom: 40px;
+      
+    }
+  }
+
+  @media screen and (max-width:550px) {
+    form{
+        width:100%;
+        max-width: 280px;
+        margin:20px auto;
+        margin-bottom: 40px;
+      
+    }
+  }
+
+
   form p{
       color: white;
   }
@@ -39,6 +60,24 @@ form{
     width: 900px;
     max-width: 100%;
     resize: none;
+  }
+
+  @media screen and (max-width:996px) {
+    input, textarea{
+        width: 500px;
+        max-width: 100%;
+        resize: none;
+      
+    }
+  }
+
+  @media screen and (max-width:550px) {
+    input, textarea{
+        width: 280px;
+        max-width: 100%;
+        resize: none;
+      
+    }
   }
 
   textarea{
