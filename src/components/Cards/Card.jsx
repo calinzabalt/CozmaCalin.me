@@ -34,10 +34,10 @@ import { Container, Row, Col } from 'reactstrap';
 
         <Col sm="4">
         <Card>
-          <CardImg top width="100%" style={{height:270}} src="/imagini/react-seeklogo.com.svg" alt="Card image cap" />
+          <CardImg top width="100%" style={{height:240}} src="/imagini/react-seeklogo.com.svg" alt="Card image cap" />
           <CardBody>
             <CardTitle>How I do the work</CardTitle>
-            <CardText>For a front-end website I use programming languages like: Javascript (React.js, Vue.js).</CardText>
+            <CardText>For a front-end website I use programming languages like: Javascript (React.js, Vue.js and Polymer).</CardText>
             <a href="/Portofolio"><Button color="danger">Portofolio</Button></a>
           </CardBody>
         </Card>

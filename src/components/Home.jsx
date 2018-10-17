@@ -11,7 +11,7 @@ class Home extends Component {
         <div className="intro">
       <div className="overlay">
       <h2>Hi! my name is Călin and I'm a</h2>
-      <h3>"front-end developer"</h3>
+      <h3>"Front-End Developer"</h3>
     </div>
   </div>
 
